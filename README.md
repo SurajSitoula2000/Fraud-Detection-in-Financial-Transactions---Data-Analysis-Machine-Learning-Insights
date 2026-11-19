@@ -1,4 +1,3 @@
-readme = r'''<div align="center">
 
 # 🛡️ Fraud Detection in Financial Transactions
 ### Data Analysis & Machine Learning Insights

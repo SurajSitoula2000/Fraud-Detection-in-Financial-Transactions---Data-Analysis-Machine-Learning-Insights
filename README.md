@@ -201,9 +201,3 @@ The project compares four machine learning algorithms to identify the model that
 ### ⭐ If you find this project useful, consider giving the repository a star!
 
 **Built with Python, Data Analysis & Machine Learning.**
-
-</div>
-'''
-out = Path("/mnt/data/README.md")
-pypandoc.convert_text(readme, "md", format="md", outputfile=str(out), extra_args=["--standalone"])
-print(f"Created: {out} ({out.stat().st_size:,} bytes)")

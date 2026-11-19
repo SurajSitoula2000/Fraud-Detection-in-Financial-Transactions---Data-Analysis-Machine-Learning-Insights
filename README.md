@@ -1,6 +1,3 @@
-from pathlib import Path
-import pypandoc
-
 readme = r'''<div align="center">
 
 # 🛡️ Fraud Detection in Financial Transactions
